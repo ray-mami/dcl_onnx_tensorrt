@@ -1,0 +1,2 @@
+python test.py --data CUB --backbone resnet50 --b 8 --nw 1  --save weights_6_374_0.8062_0.9337.pth --acc_report --ss CUB
+
